@@ -5,7 +5,7 @@ It stores all history of commands of all time stores in a history.txt file <br/>
 For the commands like passwd and for some others i don't want to change the password so i make passwd --help <br/>
 Which ensures that my shell works not only for that command for also other commands which related to it  <br/>
 
-# LIST OF COMMANDS
+## LIST OF COMMANDS
 
 cd - it works as usual to the original shell <br/>
 ls and all the commands related to ls <br/>
@@ -42,7 +42,7 @@ echo | grep <br/>
 
 Like this it succeeds in all the commands related to those and many more commands <br/>
 
-# ENVIRONMENTAL VARIABLES
+## ENVIRONMENTAL VARIABLES
 
 To get a particular environment variable type <br/>
 getenv <variable_name>  <br/>
